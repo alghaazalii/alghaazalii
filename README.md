@@ -7,6 +7,18 @@
 
 ---
 
+## 🌟 Highlight Projects
+
+<p align="center">
+  <ul>
+    <li>⚡ <a href="https://github.com/alghaazalii/kuis-energi">Kuis Energi Terbarukan</a> — Edukasi interaktif tentang energi ramah lingkungan.</li>
+    <li>🤖 <a href="https://github.com/alghaazalii/ai-edukasi">AI Edukasi Interaktif</a> — Platform pembelajaran berbasis AI untuk siswa.</li>
+    <li>🎮 <a href="https://github.com/alghaazalii/js-mini-game">Mini Game JS</a> — Kumpulan game mini yang dibuat dengan JavaScript vanilla.</li>
+  </ul>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -18,18 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
-</p>
-
----
-
-## 🌟 Highlight Projects
-
-<p align="center">
-  <ul>
-    <li>⚡ <a href="https://github.com/alghaazalii/kuis-energi">Kuis Energi Terbarukan</a> — Edukasi interaktif tentang energi ramah lingkungan.</li>
-    <li>🤖 <a href="https://github.com/alghaazalii/ai-edukasi">AI Edukasi Interaktif</a> — Platform pembelajaran berbasis AI untuk siswa.</li>
-    <li>🎮 <a href="https://github.com/alghaazalii/js-mini-game">Mini Game JS</a> — Kumpulan game mini yang dibuat dengan JavaScript vanilla.</li>
-  </ul>
 </p>
 
 ---
