@@ -64,9 +64,9 @@
 ## 🎨 UI/UX Design Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Figma-logo.svg" alt="Figma Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_XD_CC_logo_2019.svg" alt="Adobe XD Logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Photoshop_CC_icon_%282019%29.svg" alt="Photoshop Logo" width="50" />
 </p>
 
 ---
