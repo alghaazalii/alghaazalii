@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center">🧰 Tech Stack</h1>
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
@@ -22,23 +22,7 @@
 
 ---
 
-<h1 align="center">📈 GitHub Stats</h1>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alghaazalii&theme=github-compact&hide_border=true&color=5BC0BE&line=5BC0BE&point=3A506B&area=true" width="80%" />
-</p>
-
----
-
-<h1 align="center">🤖 GitHub Streak</h1>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&background=00000000&dates=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="80%" />
-</p>
-
----
-
-<h1 align="center">🌟 Highlight Projects</h1>
+## 🌟 Highlight Projects
 
 <p align="center">
   <ul>
@@ -50,7 +34,23 @@
 
 ---
 
-<h1 align="center">🎨 UI/UX Design Tools</h1>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alghaazalii&theme=github-compact&hide_border=true&color=5BC0BE&line=5BC0BE&point=3A506B&area=true" width="80%" />
+</p>
+
+---
+
+## 🤖 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&background=00000000&dates=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="80%" />
+</p>
+
+---
+
+### 🎨 UI/UX Design Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
@@ -64,7 +64,7 @@
 
 ---
 
-<h1 align="center">🌍 Let's Connect</h1>
+## 🌍 Let's Connect
 
 <p align="center">
   <a href="mailto:zidanalghazali17@gmail.com">
