@@ -51,14 +51,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/alghaazalii/alghaazalii/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
 <blockquote align="center">
   <em>“Berkarya tanpa henti, belajar tanpa batas. Kode adalah seni dan masa depan.”</em>  
   <br>— Zidan Al-Ghazali
