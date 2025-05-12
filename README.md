@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [alghaazalii]</h1>
+<h1 align="center">Hi 👋, I'm alghaazalii</h1>
 <h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer</h3>
 
 <p align="center">
@@ -41,5 +41,5 @@
 
 
 > ⚡ _“Berkarya tanpa henti, belajar tanpa batas. Kode adalah seni dan masa depan.”_  
-> — [Zidan Al-Ghazali]
+> — Zidan Al-Ghazali
 
