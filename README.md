@@ -19,24 +19,24 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,java,git,github,docker,aws,nodejs" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vscode,figma,nodejs,express,git,github&theme=neon" alt="tech stack" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🏁 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alghaazalii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&hide=prs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alghaazalii&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&hide=python" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alghaazalii&theme=github-compact&hide_border=true&color=5BC0BE&line=5BC0BE&point=3A506B&area=true" width="90%" />
 </p>
+
 
 ---
 
 ## 🚀 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F7CACA&fire=F7CACA&currStreakLabel=F7CACA" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5BC0BE&fire=3A506B&currStreakLabel=5BC0BE" width="80%" />
 </p>
 
 ---
@@ -61,18 +61,26 @@
 
 ---
 
-## 🧑‍💻 Developer Tools
+## 🔧 Essential Dev Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,aws" alt="developer tools" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
 
 ---
 
 ## 🎨 UI/UX Design Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,adobe,photoshop" alt="UI/UX Design tools" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
 ---
@@ -81,29 +89,31 @@
 
 <p align="center">
   <a href="mailto:zidanalghazali17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/alghaazalii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/alghaazalii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+
 ---
 
-<blockquote align="center">
-  <em>“Berkarya tanpa henti, belajar tanpa batas. Kode adalah seni dan masa depan.”</em><br>
-  — Zidan Al-Ghazali
-</blockquote>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=5BC0BE&center=true&vCenter=true&width=800&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali" alt="Inspirational Quote" />
+</p>
+
 
 ---
 
 ## 🎯 Continuous Learning
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alghaazalii&repo=kuis-energi&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alghaazalii&repo=ai-edukasi&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alghaazalii&repo=kuis-energi&theme=github-dark&hide_border=true&border_radius=12" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alghaazalii&repo=ai-edukasi&theme=github-dark&hide_border=true&border_radius=12" width="45%" />
 </p>
+
 
