@@ -10,7 +10,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,python,java,vscode,git,github,docker,aws" alt="tech stack" />
 </p>
 
 ---
@@ -24,11 +24,15 @@
 
 ---
 
-## 🏆 GitHub Streak & Achievements
+## 🚀 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="80%" />
 </p>
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&rank=SSS,SS,S,A,B,C" width="80%" />
@@ -57,6 +61,9 @@
   <a href="https://instagram.com/alghaazalii" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+<!--   <a href="https://www.linkedin.com/in/alghaazalii" target="_blank"> -->
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -65,3 +72,20 @@
   <em>“Berkarya tanpa henti, belajar tanpa batas. Kode adalah seni dan masa depan.”</em><br>
   — Zidan Al-Ghazali
 </blockquote>
+
+---
+
+## 🧑‍💻 Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" alt="developer tools" />
+</p>
+
+---
+
+### 🎨 UI/UX Design Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,adobe,photoshop" alt="UI/UX Design tools" />
+</p>
+
