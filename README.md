@@ -43,7 +43,7 @@
 ## 🚀 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5BC0BE&fire=3A506B&currStreakLabel=5BC0BE" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F7CACA&fire=F7CACA&currStreakLabel=F7CACA&background=00000000&dates=00FF00" width="80%" />
 </p>
 
 ---
