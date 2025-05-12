@@ -35,18 +35,26 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-<!--   <a href="https://linkedin.com/in/alghaazalii" target="_blank"> -->
+  <a href="https://linkedin.com/in/alghaazalii" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:zidanalghazali17@gmail.com">
+  <a href="mailto:alghaazalii@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://instagram.com/alghaazalii" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-<!--   <a href="https://twitter.com/alghaazalii" target="_blank"> -->
+  <a href="https://twitter.com/alghaazalii" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/alghaazalii/alghaazalii/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
