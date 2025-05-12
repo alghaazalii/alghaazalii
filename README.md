@@ -2,11 +2,7 @@
 <h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+passionate+about+web+development+and+design.&center=true&width=440&height=45" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alghaazalii&label=Visitors&color=58fadc&style=flat" alt="Visitor badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58FADC&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Welcome+to+my+GitHub!;I'm+passionate+about+web+development+and+design." alt="Typing SVG" />
 </p>
 
 ---
@@ -28,14 +24,14 @@
 
 ---
 
-## 🔥 Streak & Activity
+## 🔥 GitHub Streak & Trophy
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alghaazalii&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alghaazalii&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -69,3 +65,6 @@
   <em>“Berkarya tanpa henti, belajar tanpa batas. Kode adalah seni dan masa depan.”</em><br>
   — Zidan Al-Ghazali
 </blockquote>
+
+---
+
