@@ -64,9 +64,9 @@
 ## 🎨 UI/UX Design Tools
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Figma-logo.svg" alt="Figma Logo" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_XD_CC_logo_2019.svg" alt="Adobe XD Logo" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Photoshop_CC_icon_%282019%29.svg" alt="Photoshop Logo" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-original.svg" width="40" alt="Adobe XD" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
 </p>
 
 ---
