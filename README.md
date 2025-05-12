@@ -41,12 +41,11 @@
 ---
 
 
-## 🏆 GitHub Achievements
+## 🎯 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&rank=SSS,SS,S,A,B,C" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="80%" />
 </p>
-
 ---
 
 ## 🌟 Featured Projects
