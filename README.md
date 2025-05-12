@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center">## 🧰 Tech Stack</h1>
+<h1 align="center">🧰 Tech Stack</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML" />
@@ -22,7 +22,7 @@
 
 ---
 
-<h1 align="center">## 📈 GitHub Stats</h1>
+<h1 align="center">📈 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alghaazalii&theme=github-compact&hide_border=true&color=5BC0BE&line=5BC0BE&point=3A506B&area=true" width="80%" />
@@ -30,7 +30,7 @@
 
 ---
 
-<h1 align="center">## 🤖 GitHub Streak</h1>
+<h1 align="center">🤖 GitHub Streak</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&background=00000000&dates=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="80%" />
@@ -38,7 +38,7 @@
 
 ---
 
-<h1 align="center">## 🌟 Highlight Projects</h1>
+<h1 align="center">🌟 Highlight Projects</h1>
 
 <p align="center">
   <ul>
@@ -50,21 +50,21 @@
 
 ---
 
-<h1 align="center">### 🎨 UI/UX Design Tools</h1>
+<h1 align="center">🎨 UI/UX Design Tools</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="Canva" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Framer_logo.svg" alt="Framer" width="50" height="50"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="Canva" width="50" height="50"/> -->
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Framer_logo.svg" alt="Framer" width="50" height="50"/> -->
   <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" alt="InVision" width="50" height="50"/>
 </p>
 
 ---
 
-<h1 align="center">## 🌍 Let's Connect</h1>
+<h1 align="center">🌍 Let's Connect</h1>
 
 <p align="center">
   <a href="mailto:zidanalghazali17@gmail.com">
