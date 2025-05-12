@@ -24,34 +24,52 @@
 
 ---
 
+## 🔥 GitHub Streak & Trophy
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alghaazalii&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🌟 Highlight Projects
 
-- ⚡ [Kuis Energi Terbarukan](https://github.com/alghaazalii/kuis-energi) — Edukasi interaktif tentang energi ramah lingkungan.
-- 🤖 [AI Edukasi Interaktif](https://github.com/alghaazalii/ai-edukasi) — Platform pembelajaran berbasis AI untuk siswa.
-- 🎮 [Mini Game JS](https://github.com/alghaazalii/js-mini-game) — Kumpulan game mini yang dibuat dengan JavaScript vanilla.
+<p align="center">
+  <ul align="center">
+    <li>⚡ <a href="https://github.com/alghaazalii/kuis-energi">Kuis Energi Terbarukan</a> — Edukasi interaktif tentang energi ramah lingkungan.</li>
+    <li>🤖 <a href="https://github.com/alghaazalii/ai-edukasi">AI Edukasi Interaktif</a> — Platform pembelajaran berbasis AI untuk siswa.</li>
+    <li>🎮 <a href="https://github.com/alghaazalii/js-mini-game">Mini Game JS</a> — Kumpulan game mini yang dibuat dengan JavaScript vanilla.</li>
+  </ul>
+</p>
 
 ---
 
 ## 🌍 Let's Connect
 
 <p align="center">
-<!--   <a href="https://linkedin.com/in/alghaazalii" target="_blank"> -->
-<!--     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> -->
-  </a>
   <a href="mailto:zidanalghazali17@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://instagram.com/alghaazalii" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-<!--   <a href="https://twitter.com/alghaazalii" target="_blank"> -->
-<!--     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /> -->
-  </a>
 </p>
 
 ---
 
 <blockquote align="center">
-  <em>“Berkarya tanpa henti, belajar tanpa batas. Kode adalah seni dan masa depan.”</em>  
-  <br>— Zidan Al-Ghazali
+  <em>“Berkarya tanpa henti, belajar tanpa batas. Kode adalah seni dan masa depan.”</em><br>
+  — Zidan Al-Ghazali
 </blockquote>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alghaazalii/alghaazalii/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
