@@ -18,13 +18,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alghaazalii&show_icons=true&theme=radical" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alghaazalii&theme=radical" alt="streak" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=alghaazalii&theme=radical" alt="streak" width="48%" /> -->
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alghaazalii&theme=dracula&bg_color=0d1117&color=58fadc&line=58fadc&point=ffffff" width="95%" alt="contribution graph" />
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alghaazalii&theme=dracula&bg_color=0d1117&color=58fadc&line=58fadc&point=ffffff" width="95%" alt="contribution graph" /> -->
 </div>
 
 ---
