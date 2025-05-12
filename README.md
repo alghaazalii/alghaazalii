@@ -38,9 +38,9 @@
   <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&background=00000000&dates=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=matrix&no-frame=true&no-bg=true&margin-w=15" /> -->
+
 
 
 ---
