@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
 </p>
 
-
 ---
 
 ## 🏁 GitHub Activity
