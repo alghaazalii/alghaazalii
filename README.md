@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm alghaazalii</h1>
-<h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI/UX Designer</h3>
+<h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Welcome+to+my+GitHub!;Passionate+about+creating+modern+web+apps+and+designs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58FADC&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Welcome+to+my+GitHub!;I'm+passionate+about+web+development+and+design." alt="Typing SVG" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 💻 I’m currently working on a **React/Node.js** application for environmental education.
-- 🌱 I’m passionate about **sustainability**, **clean energy**, and contributing to green tech.
-- 🎨 I design **UI/UX** with a focus on minimalism and accessibility.
-- 📫 You can reach me at: **zidanalghazali17@gmail.com**
 
 ---
 
@@ -29,9 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
 </p>
 
+
 ---
 
-## 🏁 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alghaazalii&theme=github-compact&hide_border=true&color=5BC0BE&line=5BC0BE&point=3A506B&area=true" width="90%" />
@@ -40,16 +32,20 @@
 
 ---
 
-
-## 🎯 GitHub Achievements
+## 🤖 GitHub Streak & Trophy (AI Theme)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=matrix&column=4&margin-w=20&row=2&no-frame=true&no-bg=true" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&background=00000000&dates=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Highlight Projects
 
 <p align="center">
   <ul align="center">
@@ -75,16 +71,12 @@
 
 <p align="center">
   <a href="mailto:zidanalghazali17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://instagram.com/alghaazalii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/alghaazalii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
-
 
 ---
 
@@ -92,14 +84,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=5BC0BE&center=true&vCenter=true&width=800&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali" alt="Inspirational Quote" />
 </p>
 
-
 ---
-
-## 🎯 Continuous Learning
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alghaazalii&repo=kuis-energi&theme=github-dark&hide_border=true&border_radius=12" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alghaazalii&repo=ai-edukasi&theme=github-dark&hide_border=true&border_radius=12" width="45%" />
-</p>
-
-
