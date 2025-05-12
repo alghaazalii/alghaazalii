@@ -2,7 +2,7 @@
 <h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58FADC&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+GitHub!;I’m+passionate+about+creating+beautiful+web+applications+and+designs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=58FADC&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+GitHub!;Im+passionate+about+creating+beautiful+web+applications+and+designs." alt="Typing SVG" />
 </p>
 
 ---
