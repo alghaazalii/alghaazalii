@@ -66,23 +66,22 @@
 
 ---
 
-## 🌍 Let's Connect
+# Let's Connect 🌍
 
 Feel free to reach out to me through the platforms below!
 
 ### Find me on:
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/username)
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Logo_2023.png)](https://github.com/username)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/username)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.png)](https://twitter.com/username)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2022.png)](https://www.instagram.com/username)
 
 ### Or contact me directly:
 
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidanalghazali17@gmail.com)
+[![Mail](https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_of_Gmail_2020.png)](mailto:your-email@example.com)
 
 Let's connect and collaborate! 🚀
-
 
 
 ---
