@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm alghaazalii</h1>
 <h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer</h3>
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&duration=4000&color=3EC1D3&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Welcome+to+my+GitHub!+I+build+amazing+web+apps!+and+UI+Designs!" alt="Typing SVG animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&duration=4000&color=3EC1D3&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Welcome+to+my+GitHub!" alt="Typing SVG line 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&duration=4000&color=3EC1D3&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Passionate+about+creating+modern+web+apps+and+designs." alt="Typing SVG line 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&duration=4000&color=3EC1D3&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Always+learning+and+building+clean+code." alt="Typing SVG line 3" />
 </p>
 
 ---
@@ -51,10 +52,8 @@
 
 ---
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=calm&hide_border=true&background=00000000&ring=3EC1D3&fire=FF9C00&currStreakLabel=3EC1D3&sideLabels=DDDDDD&dates=CCCCCC" alt="GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&background=00000000&dates=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="80%" />
 </p>
 
 ---
