@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm alghaazalii 🇮🇩</h1>
-<h3 align="center">💻 Full Stack Developer | 🎨 UI Designer | 🌱 Nature Lover</h3>
+## Hi 👋, I'm alghaazalii
+### 💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer
+
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub!;I+code+clean%2C+responsive+and+modern+web+apps.;Indonesian+developer+with+a+passion+for+tech+%26+design." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&duration=4000&color=3EC1D3&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Welcome+to+my+GitHub!" alt="Typing SVG line 1" />
 </p>
 
 ---
@@ -11,25 +12,33 @@
 ## 📌 Project Highlights
 
 <p align="center">
-  <ul>
-    <li>⚡ <a href="https://github.com/alghaazalii/kuis-energi" target="_blank">Kuis Energi Terbarukan</a></li>
-    <li>🤖 <a href="https://github.com/alghaazalii/ai-edukasi" target="_blank">AI Edukasi Interaktif</a></li>
-    <li>🎮 <a href="https://github.com/alghaazalii/js-mini-game" target="_blank">Mini Game JS</a></li>
-  </ul>
+  <a href="https://github.com/alghaazalii/kuis-energi" target="_blank">
+    ⚡ **Kuis Energi Terbarukan** - Edukasi interaktif mengenai energi ramah lingkungan.
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/alghaazalii/ai-edukasi" target="_blank">
+    🤖 **AI Edukasi Interaktif** - Platform pembelajaran berbasis AI untuk siswa.
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/alghaazalii/js-mini-game" target="_blank">
+    🎮 **Mini Game JS** - Kumpulan game mini yang dibuat dengan JavaScript vanilla.
+  </a>
 </p>
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
 </p>
 
 ---
@@ -46,11 +55,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=calm&hide_border=true&background=00000000&ring=3EC1D3&fire=FF9C00&currStreakLabel=3EC1D3&sideLabels=DDDDDD&dates=CCCCCC" 
-    alt="GitHub Streak" 
-    width="90%" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=calm&hide_border=true&background=00000000&ring=3EC1D3&fire=FF9C00&currStreakLabel=3EC1D3&sideLabels=DDDDDD&dates=CCCCCC" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
@@ -83,13 +88,15 @@
 
 ---
 
-## 🌍 Connect with Me
+## Let's Connect 🌍
 
-<p align="center">
-  <a href="https://github.com/alghaazalii"><img src="https://img.icons8.com/color/48/github--v1.png" /></a>
-  <a href="https://www.instagram.com/alghaazalii"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" /></a>
-  <a href="mailto:zidanalghazali17@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" /></a>
-</p>
+Feel free to reach out to me through the platforms below!
+
+### Find me on:
+
+[![Instagram](https://img.icons8.com/color/48/instagram-new--v1.png)](https://www.instagram.com/alghaazalii)
+&nbsp; [![GitHub](https://img.icons8.com/color/48/github--v1.png)](https://github.com/alghaazalii)
+&nbsp; [![Mail](https://img.icons8.com/color/48/gmail--v1.png)](mailto:zidanalghazali17@gmail.com)
 
 ---
 
