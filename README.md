@@ -44,7 +44,11 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alghaazalii&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=alghaazalii&theme=calm&hide_border=true&background=00000000&ring=3EC1D3&fire=FF9C00&currStreakLabel=3EC1D3&sideLabels=DDDDDD&dates=CCCCCC" 
+    alt="GitHub Streak" 
+    width="90%" 
+  />
 </p>
 
 ---
@@ -60,8 +64,8 @@
 ## 🕒 Waktu Lokal & Status
 
 <p align="center">
-  <img src="https://img.shields.io/timezone/Asia/Jakarta?style=flat-square&color=blue" />
-  <img src="https://img.shields.io/badge/status-active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Time-Asia%2FJakarta-blue?style=flat-square" alt="Waktu Asia/Jakarta" width="150" />
+  <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status Active" width="150" />
 </p>
 
 ---
