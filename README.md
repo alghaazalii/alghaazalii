@@ -83,11 +83,7 @@ Feel free to reach out to me through the platforms below!
 
 ---
 
-### Let's connect and collaborate! 🚀
-
----
-
-![Inspirational Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&duration=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=100%&height=auto&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali)
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
 
