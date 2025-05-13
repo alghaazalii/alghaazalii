@@ -2,9 +2,9 @@
 <h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=FF6F61&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!" alt="Typing SVG line 1" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=00FFFF&center=true&vCenter=true&width=1000&lines=Passionate+about+creating+modern+web+apps+and+designs." alt="Typing SVG line 2" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=32CD32&center=true&vCenter=true&width=1000&lines=Always+learning+and+building+cool+stuff!" alt="Typing SVG line 3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!" alt="Typing SVG line 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=00BFFF&center=true&vCenter=true&width=1000&lines=Passionate+about+creating+modern+web+apps+and+designs." alt="Typing SVG line 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=00FFAB&center=true&vCenter=true&width=1000&lines=Always+learning+and+building+cool+stuff!" alt="Typing SVG line 3" />
 </p>
 
 ---
