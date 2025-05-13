@@ -47,7 +47,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=alghaazalii&theme=calm&hide_border=true&background=00000000&ring=3EC1D3&fire=FF9C00&currStreakLabel=3EC1D3&sideLabels=DDDDDD&dates=CCCCCC" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=calm&hide_border=true&background=00000000&ring=3EC1D3&fire=FF9C00&currStreakLabel=3EC1D3&sideLabels=DDDDDD&dates=CCCCCC" 
     alt="GitHub Streak" 
     width="90%" 
   />
