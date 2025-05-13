@@ -83,3 +83,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=5BC0BE&center=true&vCenter=true&width=100%&height=auto&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali" alt="Inspirational Quote" />
 </p>
 
+
