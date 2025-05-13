@@ -1,75 +1,93 @@
-<h1 align="center">Hi 👋, I'm Alaghazali</h1>
-<h3 align="center">A passionate Full Stack Developer from 🇮🇩</h3>
+<h1 align="center">Hi 👋, I'm alghaazalii 🇮🇩</h1>
+<h3 align="center">💻 Full Stack Developer | 🎨 UI Designer | 🌱 Nature Lover</h3>
 
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Always+learning+and+building+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hello%2C+welcome+to+my+GitHub!;I+code+clean%2C+responsive+and+modern+web+apps.;Indonesian+developer+with+a+passion+for+tech+%26+design." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 📌 Project Highlights
 
-- 🔭 I’m currently working on projects you can explore in my repositories.
-- 🌱 I’m constantly learning and improving as a full stack developer.
-- 💬 Ask me about **JavaScript, Node.js, Express, React, or anything web dev-related**.
-- 📫 Reach me at **zidanalghazali17@gmail.com**
-- 📸 Follow me on Instagram: [@alghaazalii](https://instagram.com/alghaazalii)
-- ⚡ Fun fact: *Kadang ngoding sambil ngopi sampai lupa waktu, tapi commit tetap jalan 😄.*
+<ul align="center">
+  <li>⚡ <a href="https://github.com/alghaazalii/kuis-energi">Kuis Energi Terbarukan</a></li>
+  <li>🤖 <a href="https://github.com/alghaazalii/ai-edukasi">AI Edukasi Interaktif</a></li>
+  <li>🎮 <a href="https://github.com/alghaazalii/js-mini-game">Mini Game JS</a></li>
+</ul>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alghaazalii&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alghaazalii&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alghaazalii&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alghaazalii&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### 🧩 GitHub Activity Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alghaazalii&theme=tokyo-night&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=alghaazalii&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=tokyonight&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alghaazalii&theme=onestar&row=2&column=4" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🕒 Waktu Lokal & Status
 
 <p align="center">
-  <a href="mailto:zidanalghazali17@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" /></a>
-  <a href="https://instagram.com/alghaazalii" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="30" width="30" /></a>
+  <img src="https://img.shields.io/timezone/Asia/Jakarta?style=flat-square&color=blue" />
+  <img src="https://img.shields.io/badge/status-active-success?style=flat-square" />
 </p>
 
 ---
 
+## 🎨 UI/UX Design Tools
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/alghaazalii"><img src="https://img.icons8.com/color/48/github--v1.png" /></a>
+  <a href="https://www.instagram.com/alghaazalii"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" /></a>
+  <a href="mailto:zidanalghazali17@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" /></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3EC1D3&height=140&section=footer" />
 </p>
