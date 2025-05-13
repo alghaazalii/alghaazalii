@@ -69,15 +69,22 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&duration=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=100%&height=auto&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali" alt="Inspirational Quote" />
+  <a href="mailto:zidanalghazali17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/alghaazalii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/alghaazalii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
 
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&duration=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=100%&height=auto&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali" alt="Inspirational Quote" />
-</p>
+![Inspirational Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&duration=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=100%&height=auto&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali)
 
 
 
