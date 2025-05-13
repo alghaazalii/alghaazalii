@@ -1,10 +1,9 @@
-## Hi 👋, I'm alghaazalii
-### 💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer
-
+<h1 align="center">Hi 👋, I'm alghaazalii</h1>
+<h3 align="center">💻 Frontend Developer | 🌱 Environmental Enthusiast | 🎨 UI Designer</h3>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&duration=4000&color=3EC1D3&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Welcome+to+my+GitHub!" alt="Typing SVG line 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&duration=4000&color=3EC1D3&center=true&vCenter=true&repeat=true&width=1000&height=40&lines=Welcome+to+my+GitHub!+I+build+amazing+web+apps!+and+UI+Designs!" alt="Typing SVG animation"/>
 </p>
 
 ---
