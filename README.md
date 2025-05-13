@@ -72,16 +72,17 @@ Feel free to reach out to me through the platforms below!
 
 ### Find me on:
 
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Logo_2023.png)](https://github.com/username)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/username)
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.png)](https://twitter.com/username)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2022.png)](https://www.instagram.com/username)
+[![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/username)
+[![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/username)
+[![Twitter](https://img.icons8.com/ios/50/000000/twitter.png)](https://twitter.com/username)
+[![Instagram](https://img.icons8.com/ios/50/000000/instagram-new.png)](https://www.instagram.com/username)
 
 ### Or contact me directly:
 
-[![Mail](https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_of_Gmail_2020.png)](mailto:your-email@example.com)
+[![Mail](https://img.icons8.com/ios/50/000000/gmail.png)](mailto:your-email@example.com)
 
 Let's connect and collaborate! 🚀
+
 
 
 ---
