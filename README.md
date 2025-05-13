@@ -10,11 +10,13 @@
 
 ## 📌 Project Highlights
 
-<ul align="center">
-  <li>⚡ <a href="https://github.com/alghaazalii/kuis-energi">Kuis Energi Terbarukan</a></li>
-  <li>🤖 <a href="https://github.com/alghaazalii/ai-edukasi">AI Edukasi Interaktif</a></li>
-  <li>🎮 <a href="https://github.com/alghaazalii/js-mini-game">Mini Game JS</a></li>
-</ul>
+<p align="center">
+  <ul>
+    <li>⚡ <a href="https://github.com/alghaazalii/kuis-energi" target="_blank">Kuis Energi Terbarukan</a></li>
+    <li>🤖 <a href="https://github.com/alghaazalii/ai-edukasi" target="_blank">AI Edukasi Interaktif</a></li>
+    <li>🎮 <a href="https://github.com/alghaazalii/js-mini-game" target="_blank">Mini Game JS</a></li>
+  </ul>
+</p>
 
 ---
 
