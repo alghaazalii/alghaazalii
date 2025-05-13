@@ -52,12 +52,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alghaazalii&theme=radical&hide_border=true&background=00000000&dates=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="80%" />
-</p>
-
----
-
 ## 🕒 Waktu Lokal & Status
 
 <p align="center">
