@@ -69,13 +69,9 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="mailto:zidanalghazali17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
-  </a>
-  <a href="https://instagram.com/alghaazalii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&duration=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=100%&height=auto&lines=%22Berkarya+tanpa+henti%2C+belajar+tanpa+batas.%22;%22Kode+adalah+seni+dan+masa+depan.%22;-+Zidan+Al-Ghazali" alt="Inspirational Quote" />
 </p>
+
 
 ---
 
