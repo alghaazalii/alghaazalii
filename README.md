@@ -72,16 +72,27 @@ Feel free to reach out to me through the platforms below!
 
 ### Find me on:
 
-[![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/username) 
+[![GitHub](https://img.icons8.com/ios/50/000000/github.png)](https://github.com/alghaazalii) 
 &nbsp; [![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/username) 
 &nbsp; [![Twitter](https://img.icons8.com/ios/50/000000/twitter.png)](https://twitter.com/username) 
-&nbsp; [![Instagram](https://img.icons8.com/ios/50/000000/instagram-new.png)](https://www.instagram.com/username)
+&nbsp; [![Instagram](https://img.icons8.com/ios/50/000000/instagram-new.png)](https://www.instagram.com/alghaazalii)
 
 ### Or contact me directly:
 
-[![Mail](https://img.icons8.com/ios/50/000000/gmail.png)](mailto:your-email@example.com)
+[![Mail](https://img.icons8.com/ios/50/000000/gmail.png)](mailto:zidanalghazali17@gmail.com)
 
 ### Let's connect and collaborate! 🚀
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
+</p>
+
 
 ---
 
