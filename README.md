@@ -1,60 +1,74 @@
-<h1 align="center">Hi there, I'm Alghaazalii 👋</h1>
+### Hi there 👋
 
-<p align="center">
-  🔭 Full-Stack Developer at Lintang Academy | 💡 Tech Enthusiast | 🛠️ Lifelong Learner  
-</p>
+# Halo! Saya alghaazalii 👋
 
 ---
 
-## 🧑‍💻 About Me
+## ✨ Tentang Saya
 
-- 🎓 Latar belakang pendidikan: SMK Media Informatika  
-- 💼 Saat ini bekerja sebagai Full Stack Developer di **Lintang Academy**  
-- 🌱 Saat ini sedang belajar dan memperdalam **React.js**  
-- 🧠 Minat dalam pengembangan web, JavaScript, dan teknologi open source  
-- 📫 Hubungi saya melalui: [zidanalghazali17@gmail.com](mailto:zidanalghazali17@gmail.com)
+Saya adalah seorang *Full-stack Developer*, *Front-end Enthusiast*, *Data Scientist*  dengan minat kuat pada membangun aplikasi web yang intuitif dan efisien, menganalisis data untuk mendapatkan *insight*. Saya bersemangat dalam belajar hal baru dan berkontribusi pada proyek-proyek inovatif.
 
----
-
-## 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E&logoColor=000" />
-  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&color=38B2AC" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
-</div>
+* 🔭 Saya sedang mengerjakan... [Apa yang sedang Anda kerjakan saat ini, contoh: proyek *e-commerce* dengan React dan Node.js]
+* 🌱 Saya sedang belajar... [Teknologi atau konsep baru yang sedang Anda pelajari, contoh: WebAssembly, Machine Learning dengan Python]
+* 👯 Saya ingin berkolaborasi pada... [Jenis proyek atau ide kolaborasi, contoh: proyek *open-source* yang berdampak, aplikasi *mobile* baru]
+* 🤔 Saya mencari bantuan dengan... [Jika ada yang Anda butuhkan, contoh: optimasi performa *backend*]
+* 💬 Tanya saya tentang... [Topik yang Anda kuasai dan siap berbagi, contoh: pengembangan React, *deployment* ke AWS]
+* 📫 Cara menghubungi saya: [Email Anda] atau [Link LinkedIn Anda]
+* ⚡ Fakta menarik: [Fakta menarik tentang Anda, bisa teknis atau non-teknis, contoh: Saya suka bermain catur di waktu luang.]
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Keahlian & Teknologi
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alghaazalii&show_icons=true&theme=default&hide_title=false" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alghaazalii&theme=default" />
-</div>
+Berikut adalah beberapa teknologi dan alat yang saya kuasai atau sedang aktif gunakan:
+
+**Bahasa Pemrograman:**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+**Framework & Library:**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+**Database:**
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+**Tools & Platform:**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+---
+
+## 🚀 Proyek Unggulan
+
+Berikut adalah beberapa proyek yang saya banggakan. Klik untuk melihat lebih detail!
+
+-   ### [Nama Proyek 1]
+    [Deskripsi singkat proyek ini. Apa yang dilakukannya dan teknologi apa yang digunakan.]
+    **[Link ke repositori proyek](https://github.com/Godithiya/nama-repositori-proyek-1)** | **[Link ke demo/live site (opsional)]**
+
+-   ### [Nama Proyek 2]
+    [Deskripsi singkat proyek ini. Apa yang dilakukannya dan teknologi apa yang digunakan.]
+    **[Link ke repositori proyek](https://github.com/Godithiya/nama-repositori-proyek-2)** | **[Link ke demo/live site (opsional)]**
+
+-   ### [Nama Proyek 3]
+    [Deskripsi singkat proyek ini. Apa yang dilakukannya dan teknologi apa yang digunakan.]
+    **[Link ke repositori proyek](https://github.com/Godithiya/nama-repositori-proyek-3)** | **[Link ke demo/live site (opsional)]**
 
 ---
 
-## 📌 Featured Projects
+## 📊 Statistik GitHub Saya (Opsional)
 
-| Project | Deskripsi | Teknologi |
-|--------|-----------|-----------|
-| [ContohProject1](https://github.com/alghaazalii/ContohProject1) | Deskripsi singkat project ini. | React.js, Node.js |
-| [ContohProject2](https://github.com/alghaazalii/ContohProject2) | Deskripsi lainnya. | Express, MongoDB |
-
-*Silakan beri saya nama dan link project kamu agar bagian ini bisa lebih akurat ya!*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godithiya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godithiya&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Mari Terhubung!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alghaazalii-blue?style=flat&logo=linkedin)](https://linkedin.com/in/USERNAME)  
-[![Email](https://img.shields.io/badge/Email-Kirim%20Email-red?style=flat&logo=gmail)](mailto:alghaazalii@example.com)
+Saya selalu terbuka untuk diskusi, ide baru, atau peluang kolaborasi. Jangan ragu untuk menghubungi saya!
 
+<a href="mailto:emailanda@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/nama-profil-linkedin-anda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/username-twitter-anda"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 ---
-
-> *"Consistency is the key to mastery."*
-
