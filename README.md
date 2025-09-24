@@ -14,6 +14,7 @@
   </a>
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=440&height=45&lines=Software+Engineer;Full+Stack+Developer;Always+learning+new+things;Open+Source+Contributor" />
 
 <p align="center">
   <a href="https://github.com/alghaazalii/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=alghaazaliid"></a>
